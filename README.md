@@ -18,7 +18,6 @@
 - **SQL** : ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
   ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
-  ![PL/SQL](https://img.shields.io/badge/PLSQL-01579B?style=flat&logo=oracle&logoColor=white)  
 - **NoSQL** : ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 ### ⚙️ **DevOps & Tools**  
