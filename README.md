@@ -80,7 +80,7 @@ Agile (Scrum), Jira, MVC
 ---
 
 ## 📬 **Contact & Links**  
-🌍 **Portfolio** : [portfolio-ayoube-jarhni1.vercel.app](https://portfolio-ayoube-jarhni1.vercel.app/)  
+
 🔗 **LinkedIn** : [linkedin.com/in/ayoub-jarhni-024533231/](https://www.linkedin.com/in/ayoub-jarhni-024533231/)  
 🐙 **GitHub** : [github.com/AyoubeJarhni1](https://github.com/AyoubeJarhni1)  
 📧 **Email** : [ayoubjarhni@gmail.com](mailto:ayoubjarhni@gmail.com)  
